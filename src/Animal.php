@@ -2,7 +2,6 @@
 
 namespace Animal;
 
-// Абстрактный класс Animal
 abstract class Animal {
     abstract public function makeSound();
 
